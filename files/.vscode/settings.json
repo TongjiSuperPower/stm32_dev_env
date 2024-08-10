@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "*.h": "c"
+    },
+    "editor.formatOnSave": true,
+    "[c]": {
+        "editor.formatOnSave": false,
+    },
+    "cortex-debug.variableUseNaturalFormat": true,
+    "cmake.configureOnOpen": true,
+    "cmake.options.advanced": {
+        "configurePreset": {
+            "statusBarVisibility": "visible",
+        },
+        "build": {
+            "statusBarVisibility": "hidden",
+        },
+        "launch": {
+            "statusBarVisibility": "hidden",
+        },
+        "debug": {
+            "statusBarVisibility": "hidden",
+        },
+    },
+}
