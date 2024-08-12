@@ -66,3 +66,8 @@
 ## 5 安装 SerialPlot
 1. 下载安装包：https://serialplot.ozderya.net/downloads/serialplot-0.12.0-win32-setup.exe
 2. 安装：按照推荐/默认选项一步一步往下走即可。
+
+## 6 安装 Git
+1. 下载安装包：https://git-scm.com/download/win
+![](imgs/download_git.png)
+2. 安装：按照推荐/默认选项一步一步往下走即可。
