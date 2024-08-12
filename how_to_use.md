@@ -19,3 +19,18 @@
 
 8. 自己创建的源文件和头文件需要在`CMakeLists.txt`中添加
 ![](imgs/cmakelists.png)
+
+9. (可选)将`f8`设置为「烧录」的快捷键
+    1. 使用`ctrl+shift+p`快捷键，输入`keyboard`，选择下图中的选项：
+    ![](imgs/open_keyboard_json.png)
+    2. 把下面内容覆盖到该json文件中：
+        ```json
+        [
+            {
+                "key": "f8",
+                "command": "workbench.action.tasks.runTask",
+                "args": "OpenOCD: flash"
+            }
+        ]
+        ```
+    3. 保存后生效。
