@@ -64,7 +64,7 @@
         ![](imgs/check_openocd.png)
 
 ## 5 安装 SerialPlot
-1. 下载安装包：https://serialplot.ozderya.net/downloads/serialplot-0.12.0-win32-setup.exe
+1. 下载安装包：https://github.com/hyOzd/serialplot/releases/tag/v0.13.0
 2. 安装：按照推荐/默认选项一步一步往下走即可。
 
 ## 6 安装 Git
